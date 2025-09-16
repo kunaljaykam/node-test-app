@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-test",
+  "version": "1.0.0",
+  "description": "Simple hello world Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hello", "world", "test"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
